@@ -10,6 +10,7 @@ let closings = [
   "You are kind.",
   "You are smart.",
   "You are important."
+  "You are loved!"
 ];
 
 function randomNumber(a, b) {
