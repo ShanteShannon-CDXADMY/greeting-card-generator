@@ -8,5 +8,10 @@ function makeCard() {
   console.log("Happy birthday from the generator.");
 }
 
+function makeThankYouCard() {
+  console.log("Dear " + name + ",");
+  console.log("Thanks a " + noun + " — that was " + adjective + " of you.");
+  console.log("Sincerely, the generator.");
+}
 makeCard();
-makeCard();
+makeThankYouCard();
