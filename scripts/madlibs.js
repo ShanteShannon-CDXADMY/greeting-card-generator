@@ -7,5 +7,8 @@ function makeCard() {
   console.log("You are as " + adjective + " as a " + noun + ".");
   console.log("Happy birthday from the generator.");
 }
-
+function makeThankYouCard() {
+console.log("Thank you for being you!");
+}
 makeCard();
+makeThankYouCard();
