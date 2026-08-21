@@ -4,5 +4,5 @@ function makeCard() {
 }
 
 console.log("Warming up the generator...");
-setInterval(makeCard, 2000);
+setTimeout(makeCard, 3000);
 console.log("Generator loaded. Card in 3 seconds.");
